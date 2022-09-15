@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/drawable/background_launch.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/layout/activity_splash_screen.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/layout/fragment_first.xml" value="0.33" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/menu/menu_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/CovidTester/app/src/main/res/xml/file_provider_path.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/LIBRARY/NvmesAppLibrary/src/main/res/drawable/backgroud_border_green_radius.xml" value="0.3671875" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/LIBRARY/NvmesAppLibrary/src/main/res/drawable/backgroud_border_green_radius_full.xml" value="0.3671875" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/LIBRARY/NvmesAppLibrary/src/main/res/drawable/backgroud_border_grey_radius_full.xml" value="0.3671875" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/LIBRARY/NvmesAppLibrary/src/main/res/drawable/backgroud_border_red_radius_full.xml" value="0.3671875" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/LIBRARY/NvmesAppLibrary/src/main/res/layout/activity_base.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/LIBRARY/NvmesAppLibrary/src/main/res/layout/activity_login.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/LIBRARY/NvmesAppLibrary/src/main/res/layout/fragment_login_by_name.xml" value="0.33" />
+        <entry key="..\:/Users/jirasek.ondrej/AndroidStudioProjects/LIBRARY/NvmesAppLibrary/src/main/res/layout/view_info_dialog.xml" value="0.16145833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

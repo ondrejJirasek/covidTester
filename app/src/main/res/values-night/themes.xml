@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CovidTester" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primaryDark</item>
+        <item name="colorPrimaryVariant">@color/secondaryDark</item>
+        <item name="colorOnPrimary">@color/NVSPGreyDARK</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/NVSPGreen</item>
+        <item name="colorSecondaryVariant">@color/NVSPGreenDark</item>
+        <item name="colorOnSecondary">@color/NVSPGreyDARK</item>
+    </style>
+    <style name="Theme.CovidTester.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.TesterApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" >
+
+    </style>
+    <style name="Theme.TesterApp.PopupOverlay" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+    </style>
+</resources>

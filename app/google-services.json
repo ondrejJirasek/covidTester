@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434053624765",
+    "project_id": "covidtester-9a5cb",
+    "storage_bucket": "covidtester-9a5cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434053624765:android:092eb8a154ee3f22d698d4",
+        "android_client_info": {
+          "package_name": "com.nvsp.covidtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434053624765-qcq3659fvm8m86obs0ipdeo3vphjsbs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQGGxMr0_ehmM9-j2QiWhHnv3DfLA_9qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434053624765-qcq3659fvm8m86obs0ipdeo3vphjsbs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

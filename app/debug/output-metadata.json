@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.nvsp.covidtester",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0 build(85)",
+      "outputFile": "CovidTester1.0 build(85)_14-02-2022_09-14-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
